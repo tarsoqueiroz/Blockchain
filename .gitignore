@@ -13,3 +13,25 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+
+## From DAML
+node_modules/
+target/
+.vscode/
+logs/
+*.log
+template-ids.json
+.package-database
+daml/PingPong.hi
+dist
+.idea
+.*.swp
+.interfaces
+
+
+**/.DS_Store
+navigator.history
+.navigator.conf
+.daml/
+
